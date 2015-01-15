@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyScreenLock</string>
+    <string name="tag">EasyScreenLock</string>
+    <string name="service_name">EasyScreenLockService</string>
+    <string name="serviceHandlingReceiver">ServiceHandlingReceiver</string>
+    <string name="title_activity_wake_up_helper">`</string>
+    <string name="uninstall_package_uri">package:com.configurer.easyscreenlock</string>
+    <string name="context_fragment_tag">Context_Fragment_Tag</string>
+
+    <!-- localizable information -->
+    <string name="service_running">EasyScreenLock is Running</string>
+    <string name="action_settings">Settings</string>    
+    <string name="enable">ENABLE</string>
+    <string name="disable">DISABLE</string>
+    <string name="enabled_info">Device Administrator Enabled</string>
+    <string name="disabled_info">Device Administrator Disabled</string>
+    <string name="error_permission">Device Administrator does not enable. Cannot make Screen Lock/Wake Up.</string>
+    <string name="uninstall_info">You can now uninstall the application</string>
+
+</resources>

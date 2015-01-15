@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- myanmar -->
+    <string name="title_uninstall">App ကို ျဖဳတ္္ရန္</string>
+    <string name="title_sensors">အာ႐ံုခံကိရိယာမ်ား</string>
+    <string name="title_feedback">အသံုးျပဳသူ Feedback</string>
+    <string name="feedback_email">info.easyscreenlock@gmail.com</string>
+    <string name="uninstall">Uninstall (ျဖဳတ္္ပါ)</string>
+    <string name="subject">EasyScreenLock အသံုးျပဳသူ Feedback</string>
+    <string name="body_tip">သင္္ရဲ့ထင္္ျမင္္ခ်က္္ေရးပါ</string>
+    <string name="email_title">EasyScreenLock အသံုးျပဳသူ Feedback</string>
+    <string name="empty_sensor">သင္္ရဲ့ ဖုန္္းမွာ အာ႐ံုခံကိရိယာမ်ား မရိွပါ။</string>
+    <string name="learn_more">ေလ့လာရန္ <a href="http://developer.android.com/guide/topics/sensors/sensors_overview.html">အာ႐ံုခံကိရိယာမ်ား</a></string>
+
+    <string name="title_language">ဘာသာစကား</string>
+    <string name="info_uninstall">EasyScreenLock ကို ျဖဳတ္္ရန္္</string>
+    <string name="tip_uninstall">Disable အရင္္လုပ္္ျပီးမွ ျဖဳတ္္ပါ</string>
+    <string name="tip_language">ဘာသာစကားခ်ိန္္းရန္္</string>
+    <string name="tip_sensors">သင္္ရဲ့ ဖုန္းထဲမွ အာရံုခံကိရိယာမ်ား</string>
+    <string name="tip_feedback">Feedback ပို့မယ္္</string>
+    
+    <string name="app_info">Application ကိုအသံုးျပဳရန္္ Device Administrator Activation လိုပါသည္္။\n
+	    				Enable button ကို click ႏွိပ္္ျပီး Activate လုပ္္ပါ။</string>
+    <string name="usage_info">EasyScreenLock သည္ Proximity Sensor ကို အသံုးျပဳျပီး Screen အဖြင့္/အပိတ္ လုပ္္ေပးေသာ Application ျဖစ္္ပါသည္္။</string>
+    
+</resources>

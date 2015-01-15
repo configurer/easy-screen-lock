@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- japan -->
+    <string name="title_uninstall">アンインストールする</string>
+    <string name="title_sensors">センサー</string>
+    <string name="title_feedback">フィードバック</string>
+    <string name="feedback_email">info.easyscreenlock@gmail.com</string>
+    <string name="uninstall">アンインストールする</string>
+    <string name="subject">EasyScreenLock User Feedback</string>
+    <string name="body_tip">ここにあなたのフィードバックを入力</string>
+    <string name="email_title">EasyScreenLock User Feedback</string>
+    <string name="empty_sensor">お使いのデバイスにはセンサーがありません。</string>
+    <string name="learn_more">の詳細情報 <a href="http://developer.android.com/guide/topics/sensors/sensors_overview.html">センサー</a></string>
+
+    <string name="title_language">言語</string>
+    <string name="info_uninstall">アンインストールEasyScreenLockアプリケーション</string>
+    <string name="tip_uninstall">アンインストールする前に、まず無効にしてください</string>
+    <string name="tip_language">言語を変更するにはクリック</string>
+    <string name="tip_sensors">利用可能なセンサー</string>
+    <string name="tip_feedback">フィードバックを歓迎し</string>
+    
+    <string name="app_info">このアプリは、デバイス管理者を必要とする\n
+	    				デバイス管理者を有効にするために有効にする]をクリックし</string>
+    <string name="usage_info">このアプリは、自動的に近接センサを使用して/ウェイクアップ画面をロックされている</string>
+    
+</resources>

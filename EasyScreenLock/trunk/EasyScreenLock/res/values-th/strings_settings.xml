@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- thai -->
+    <string name="title_uninstall">ถอนการติดตั้ง</string>
+    <string name="title_sensors">เซ็นเซอร์</string>
+    <string name="title_feedback">ข้อเสนอแนะ</string>
+    <string name="feedback_email">info.easyscreenlock@gmail.com</string>
+    <string name="uninstall">ถอนการติดตั้ง</string>
+    <string name="subject">EasyScreenLock ข้อเสนอแนะของผู้ใช้</string>
+    <string name="body_tip">Type your feedback here</string>
+    <string name="email_title">EasyScreenLock ข้อเสนอแนะของผู้ใช้</string>
+    <string name="empty_sensor">อุปกรณ์ของคุณไม่ได้มีเซ็นเซอร์</string>
+    <string name="learn_more">เรียนรู้เพิ่มเติมเกี่ยวกับ <a href="http://developer.android.com/guide/topics/sensors/sensors_overview.html">เซ็นเซอร์</a></string>
+
+    <string name="title_language">ภาษา</string>
+    <string name="info_uninstall">ถอนการติดตั้งแอพลิเคชัน EasyScreenLock</string>
+    <string name="tip_uninstall">กรุณาปิดการใช้งานก่อนที่จะถอนการติดตั้ง</string>
+    <string name="tip_language">คลิกเพื่อเปลี่ยนภาษา</string>
+    <string name="tip_sensors">เซ็นเซอร์ที่มี</string>
+    <string name="tip_feedback">ข้อเสนอแนะที่เป็นยินดีต้อนรับคุณ</string>
+    
+    <string name="app_info">App นี้ต้องใช้ผู้ดูแลระบบอุปกรณ์\n
+	    				คลิกเปิดใช้งานเพื่อเปิดใช้งานผู้ดูแลระบบอุปกรณ์</string>
+    <string name="usage_info">App นี้จะล็อค / WakeUp หน้าจอโดยอัตโนมัติโดยใช้ Proximity Sensor</string>
+    
+</resources>

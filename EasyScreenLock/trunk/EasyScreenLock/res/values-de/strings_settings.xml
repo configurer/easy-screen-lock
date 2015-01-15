@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- german -->
+    <string name="title_uninstall">Deinstallieren</string>
+    <string name="title_sensors">Sensoren</string>
+    <string name="title_feedback">Rückkopplung</string>
+    <string name="feedback_email">info.easyscreenlock@gmail.com</string>
+    <string name="uninstall">Deinstallieren</string>
+    <string name="subject">EasyScreenLock utilisateur Commentaires</string>
+    <string name="body_tip">Entrez vos commentaires ici</string>
+    <string name="email_title">EasyScreenLock utilisateur Commentaires</string>
+    <string name="empty_sensor">Ihr Gerät haben keine Sensoren.</string>
+    <string name="learn_more">Erfahren Sie mehr über <a href="http://developer.android.com/guide/topics/sensors/sensors_overview.html">Sensoren</a></string>
+
+    <string name="title_language">Sprache</string>
+    <string name="info_uninstall">Deinstallieren EasyScreenLock Anwendungs</string>
+    <string name="tip_uninstall">Bitte zuerst deaktivieren, bevor deinstallieren</string>
+    <string name="tip_language">Klicken Sie auf, um Sprache zu ändern</string>
+    <string name="tip_sensors">verfügbaren Sensoren</string>
+    <string name="tip_feedback">Feedback ist willkommen</string>
+    
+    <string name="app_info">Diese App erfordert Geräte-Administrator\n
+	    				Klicken Sie auf Aktivieren, um den Geräte-Administrator aktivieren</string>
+    <string name="usage_info">Diese App wird automatisch sperren / WakeUp Bildschirm mit Näherungssensor</string>
+    
+</resources>

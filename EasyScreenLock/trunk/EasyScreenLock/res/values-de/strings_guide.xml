@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="guide_detail">
+<![CDATA[
+		<h4><i>Wie zu verwenden</i></h4>
+		<br>
+        <h3>1. Schließen Lock Screen</h3>  		<p>Tippen Sie über Näherungssensor für 1 Sekunden und Vibrationen kommt. 
+  Dann können Sie verlassen über Antippen Sensor und Gerät gesperrt und schlafen.</p> 
+ 		<h3>2. Öffnen / WakeUp Bildschirm</h3> 
+ 		<p>Tippen Sie über Näherungssensor für 1 Sekunden und Vibrationen kommt. Dann können Sie verlassen über Antippen Sensor und Gerät Wake Up sein, und öffnen Sie den Bildschirm.</p> 		 
+ 		 <p>
+ 		 <i><h7>Schieben, um die Bildführung zu sehen.<h7></i>
+ 		 </p>
+ 		    
+ 		    ]]>
+    </string>
+    <string name="picture_guide_detail">
+<![CDATA[		
+		Tippen Sie über Sensor / lock-Bildschirm zu öffnen. 
+Sensor kann oben rechts / links auf dem Bildschirm sein.		
+ 		]]>
+    </string>
+
+</resources>

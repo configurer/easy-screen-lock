@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="countries_list_title">Select Language</string>
+    
+    <string-array name="countries_list">
+        <item>China</item>
+        <item>English</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Itialian</item>
+        <item>Japan</item>
+        <item>Korea</item>
+        <item>Myanmar</item>
+        <item>Thai</item>
+    </string-array>
+
+</resources>

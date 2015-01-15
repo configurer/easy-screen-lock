@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="guide_detail">
+<![CDATA[
+		<h4><i>Comment utiliser</i></h4>
+		<br>
+        <h3>1. Fermer et le verrouillage du téléphone</h3>  		<p>Appuyez sur le capteur de proximité pour 1 seconde, et les vibrations volonté sort. 
+  Ensuite, vous pouvez laisser appuyant sur ​​le capteur et le dispositif sera verrouillé et le sommeil.</p> 
+ 		<h3>2. Ouvrir / réveil écran</h3> 
+ 		<p>Appuyez sur le capteur de proximité pour 1 seconde, et les vibrations volonté sort. Ensuite, vous pouvez laisser appuyant sur ​​le capteur et le dispositif sera de réveil et ouvrir le téléphone.</p> 		 
+ 		 <p>
+ 		 <i><h7>Faites glisser pour afficher guide image.<h7></i>
+ 		 </p>
+ 		    
+ 		    ]]>
+    </string>
+    <string name="picture_guide_detail">
+<![CDATA[		
+		Appuyez sur le capteur pour ouvrir / écran de verrouillage. 
+Capteur peut être en haut à droite / à gauche du téléphone.
+ 		]]>
+    </string>
+
+</resources>
