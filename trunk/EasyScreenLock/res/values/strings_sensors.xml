@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- below information are referenced from develoer web site (http://developer.android.com/guide/topics/sensors/sensors_overview.html) -->
+
+    <string name="TYPE_ACCELEROMETER">
+<![CDATA[
+<body>
+<p>
+Measures the acceleration force in m/s2 that is applied to a device on all three physical axes (x, y, and z), including the force of gravity.
+</p>
+<b>Common Uses</b>
+<p>
+Motion detection (shake, tilt, etc.).
+</p>
+</body>
+]]>
+    </string>
+    <string name="TYPE_AMBIENT_TEMPERATURE">
+<![CDATA[
+<body>
+<p>
+Measures the ambient room temperature in degrees Celsius (°C). See note below.
+</p>
+<b>Common Uses</b>
+<p>
+Monitoring air temperatures.
+</p>
+</body>
+]]>
+    </string>
+    <string name="TYPE_GRAVITY">
+<![CDATA[
+<body>
+<p>
+Measures the force of gravity in m/s2 that is applied to a device on all three physical axes (x, y, z).
+</p>
+<b>Common Uses</b>
+<p>
+Motion detection (shake, tilt, etc.).
+</p>
+</body>
+]]>
+    </string>
+    <string name="TYPE_GYROSCOPE">
+<![CDATA[
+<body>
+<p>
+Measures a rate of device rotation in rad/s around each of the three physical axes (x, y, and z).
+</p>
+<b>Common Uses</b>
+<p>
+Rotation detection (spin, turn, etc.).
+</p>
+</body>
+]]>
+    </string>
+    <string name="TYPE_LIGHT">
+<![CDATA[
+<body>
+<p>
+Measures the ambient light level (illumination) in lx.
+</p>
+<b>Common Uses</b>
+<p>
+Controlling screen brightness.
+</p>
+</body>
+]]>
+    </string>
+    <string name="TYPE_LINEAR_ACCELERATION">
+<![CDATA[
+<body>
+<p>
+Measures the acceleration force in m/s2 that is applied to a device on all three physical axes (x, y, and z), excluding the force of gravity.
+</p>
+<b>Common Uses</b>
+<p>
+Monitoring acceleration along a single axis.
+</p>
+</body>
+]]>
+    </string>
+    <string name="TYPE_MAGNETIC_FIELD">
+<![CDATA[
+<body>
+<p>
+Measures the ambient geomagnetic field for all three physical axes (x, y, z) in μT.
+</p>
+<b>Common Uses</b>
+<p>
+Creating a compass.
+</p>
+</body>
+]]>
+    </string>
+    <string name="TYPE_ORIENTATION">
+<![CDATA[
+<body>
+<p>
+Measures degrees of rotation that a device makes around all three physical axes (x, y, z).
+</p>
+<b>Common Uses</b>
+<p>
+Determining device position.
+</p>
+</body>
+]]>
+    </string>
+    <string name="TYPE_PRESSURE">
+<![CDATA[
+<body>
+<p>
+Measures the ambient air pressure in hPa or mbar.
+</p>
+<b>Common Uses</b>
+<p>
+Monitoring air pressure changes.
+</p>
+</body>
+]]>
+    </string>
+    <string name="TYPE_PROXIMITY">
+<![CDATA[
+<body>
+<p>
+Measures the proximity of an object in cm relative to the view screen of a device. This sensor is typically used to determine whether a handset is being held up to a person ear.
+</p>
+<b>Common Uses</b>
+<p>
+Phone position during a call.
+</p>
+</body>
+]]>
+    </string>
+    <string name="TYPE_RELATIVE_HUMIDITY">
+<![CDATA[
+<body>
+<p>
+Measures the relative ambient humidity in percent (%).
+</p>
+<b>Common Uses</b>
+<p>
+Monitoring dewpoint, absolute, and relative humidity.
+</p>
+</body>
+]]>
+    </string>
+    <string name="TYPE_ROTATION_VECTOR">
+<![CDATA[
+<body>
+<p>
+Measures the orientation of a device by providing the three elements of the rotation device vector.
+</p>
+<b>Common Uses</b>
+<p>
+Motion detection and rotation detection.
+</p>
+</body>
+]]>
+    </string>
+    <string name="TYPE_TEMPERATURE">
+<![CDATA[
+<body>
+<p>
+Measures the temperature of the device in degrees Celsius (°C). 
+</p>
+<b>Common Uses</b>
+<p>
+Monitoring temperatures.
+</p>
+</body>
+]]>
+    </string>
+
+</resources>

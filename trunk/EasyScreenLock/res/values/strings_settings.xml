@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- todo sync i18n -->
+
+    <string name="title_uninstall">Uninstall</string>
+    <string name="title_sensors">Sensors</string>
+    <string name="title_feedback">Feedback</string>    
+    <string name="feedback_email">info.easyscreenlock@gmail.com</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="subject">EasyScreenLock User Feedback</string>
+    <string name="body_tip">Type your feedback here</string>
+    <string name="email_title">EasyScreenLock User Feedback</string>
+    <string name="empty_sensor">Your device have no Sensors.</string>
+    <string name="learn_more">Learn more about <a href="http://developer.android.com/guide/topics/sensors/sensors_overview.html">sensors</a></string>
+    
+    <string name="title_language">Language</string>
+    <string name="info_uninstall">Uninstall EasyScreenLock Application</string>
+    <string name="tip_uninstall">Please Disable first before uninstall</string>
+    <string name="tip_language">Click to change Language</string>
+    <string name="tip_sensors">Available sensors</string>
+    <string name="tip_feedback">Feedback is Welcome</string>
+
+    <string name="app_info">This App requires Device Administrator\n
+	    				Click Enable to activate Device Administrator</string>
+    <string name="usage_info">This App is automatically Lock/WakeUp Screen by using Proximity Sensor</string>
+    
+</resources>

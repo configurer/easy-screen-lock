@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- china -->
+    <string name="title_uninstall">卸載</string>
+    <string name="title_sensors">傳感器</string>
+    <string name="title_feedback">反饋</string>
+    <string name="feedback_email">info.easyscreenlock@gmail.com</string>
+    <string name="uninstall">卸載</string>
+    <string name="subject">EasyScreenLock 用戶反饋</string>
+    <string name="body_tip">請在此輸入您的意見</string>
+    <string name="email_title">EasyScreenLock 用戶反饋</string>
+    <string name="empty_sensor">您的設備沒有傳感器。</string>
+    <string name="learn_more">了解更多  <a href="http://developer.android.com/guide/topics/sensors/sensors_overview.html">傳感器</a></string>
+
+    <string name="title_language">語言</string>
+    <string name="info_uninstall">卸載EasyScreenLock應用</string>
+    <string name="tip_uninstall">請卸載之前先禁用</string>
+    <string name="tip_language">點擊更改語言</string>
+    <string name="tip_sensors">可用的傳感器</string>
+    <string name="tip_feedback">反饋是歡迎</string>
+    
+    <string name="app_info">此應用程序需要設備管理員\n
+	    				單擊啟用激活設備管理器</string>
+    <string name="usage_info">這個程序是用接近傳感器自動鎖定/喚醒屏幕</string>
+    
+</resources>
