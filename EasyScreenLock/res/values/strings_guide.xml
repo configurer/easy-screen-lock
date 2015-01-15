@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="guide_detail">
+<![CDATA[
+		<h4><i>How to Use</i></h4>
+		<br>
+        <h3>1. Close and Lock Screen </h3>  		<p>Tap over proximity sensor for 1 seconds, and vibration will comes out. 
+ 		    Then you can leave tapping over sensor and device will be locked and sleep.</p> 
+ 		<h3>2. Open/WakeUp Screen</h3> 
+ 		<p>Tap over proximity sensor for 1 seconds, and vibration will comes out. 
+ 		    Then you can leave tapping over sensor and device will be WakeUp and Open the screen.</p> 		 
+ 		 <p>
+ 		 <i><h7>Slide to view picture guide.<h7></i>
+ 		 </p>
+ 		    
+ 		    ]]>
+    </string>
+    <string name="picture_guide_detail">
+<![CDATA[		
+		Tap over sensor to open/lock screen.		
+		Sensor may be at top right/left corner of the screen.		
+ 		]]>
+    </string>
+
+</resources>

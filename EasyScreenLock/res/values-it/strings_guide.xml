@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="guide_detail">
+<![CDATA[
+		<h4><i>Come usare</i></h4>
+		<br>
+        <h3>1. Chiudere e Lock Screen</h3>  		<p>Toccare su sensore di prossimità per 1 secondo, e la volontà di vibrazione viene fuori. 
+  Poi si può lasciare toccando sopra il sensore e il dispositivo verrà bloccato e dormire.</p> 
+ 		<h3>2. Aprire / WakeUp Screen</h3> 
+ 		<p>Toccare su sensore di prossimità per 1 secondo, e la volontà di vibrazione viene fuori. 
+  Poi si può lasciare toccando sopra il sensore e il dispositivo sarà WakeUp e aprire lo schermo.</p> 		 
+ 		 <p>
+ 		 <i><h7>Far scorrere per visualizzare la guida immagine.<h7></i>
+ 		 </p>
+ 		    
+ 		    ]]>
+    </string>
+    <string name="picture_guide_detail">
+<![CDATA[		
+		Toccare su sensore per aprire la schermata / lock. 
+Il sensore potrebbe essere in alto a destra angolo / sinistra dello schermo.		
+ 		]]>
+    </string>
+
+</resources>

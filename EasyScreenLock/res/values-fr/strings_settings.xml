@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- french -->
+    <string name="title_uninstall">Désinstaller</string>
+    <string name="title_sensors">Capteurs</string>
+    <string name="title_feedback">Réaction</string>
+    <string name="feedback_email">info.easyscreenlock@gmail.com</string>
+    <string name="uninstall">Désinstaller</string>
+    <string name="subject">EasyScreenLock utilisateur Commentaires</string>
+    <string name="body_tip">Entrez vos commentaires ici</string>
+    <string name="email_title">EasyScreenLock utilisateur Commentaires</string>
+    <string name="empty_sensor">Votre appareil ne dispose pas des capteurs.</string>
+    <string name="learn_more">En savoir plus sur <a href="http://developer.android.com/guide/topics/sensors/sensors_overview.html">capteurs</a></string>
+
+    <string name="title_language">Langue</string>
+    <string name="info_uninstall">Désinstaller EasyScreenLock application</string>
+    <string name="tip_uninstall">Désactiver avant de désinstallation</string>
+    <string name="tip_language">Cliquez pour changer la langue</string>
+    <string name="tip_sensors">Capteurs disponibles</string>
+    <string name="tip_feedback">Commentaires sont les bienvenus</string>
+    
+    <string name="app_info">Cette application nécessite Device Administrator\n
+	    				Cliquez sur Activer pour activer Device Administrator</string>
+    <string name="usage_info">Cette application est automatiquement verrouillage écran / WakeUp en utilisant le capteur de proximité</string>
+    
+</resources>

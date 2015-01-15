@@ -1,0 +1,17 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A6000000" >
+
+    <TextView
+        android:id="@+id/txt_guide_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dip"
+        android:drawableLeft="@drawable/guide_icon"
+        android:gravity="center"
+        android:text="@string/picture_guide_detail"
+        android:textColor="@android:color/white" />
+
+</ScrollView>

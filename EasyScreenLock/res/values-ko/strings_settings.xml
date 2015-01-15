@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- korea -->
+    <string name="title_uninstall">제거</string>
+    <string name="title_sensors">센서</string>
+    <string name="title_feedback">피드백</string>
+    <string name="feedback_email">info.easyscreenlock@gmail.com</string>
+    <string name="uninstall">제거</string>
+    <string name="subject">EasyScreenLock 사용자 의견</string>
+    <string name="body_tip">여기에 귀하의 의견을 입력</string>
+    <string name="email_title">EasyScreenLock 사용자 의견</string>
+    <string name="empty_sensor">장치는 센서가 없습니다.</string>
+    <string name="learn_more">에 대해 자세히 알아보기 <a href="http://developer.android.com/guide/topics/sensors/sensors_overview.html">센서</a></string>
+    
+    <string name="title_language">언어</string>
+    <string name="info_uninstall">제거 EasyScreenLock 응용 프로그램</string>
+    <string name="tip_uninstall">제거하기 전에 첫번째 사용하지 않도록하십시오</string>
+    <string name="tip_language">언어를 변경하려면 클릭</string>
+    <string name="tip_sensors">사용 가능한 센서</string>
+    <string name="tip_feedback">의견을 환영합니다</string>
+
+    <string name="app_info">이 응용 프로그램은 장치 관리자를 필요로\n
+	    				장치 관리자를 활성화하려면 사용을 클릭합니다</string>
+    <string name="usage_info">이 응용 프로그램은 자동으로 근접 센서를 사용하여 / 웨이크 업 화면 잠금된다</string>
+    
+</resources>

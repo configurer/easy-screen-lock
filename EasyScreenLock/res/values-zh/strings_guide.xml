@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="guide_detail">
+<![CDATA[
+		<h4><i>如何使用</i></h4>
+		<br>
+        <h3>1. 關閉並鎖定屏幕 </h3>  		<p>點擊在接近傳感器1秒，震動會出來。 
+ 然後你可以離開了竊聽傳感器和設備將被鎖定，睡眠。</p> 
+ 		<h3>2. 打開/喚醒屏幕</h3> 
+ 		<p>點擊在接近傳感器1秒，震動會出來。然後你可以離開了竊聽傳感器和設備將被喚醒，打開屏幕。</p> 		 
+ 		 <p>
+ 		 <i><h7>滑動查看圖片指南。<h7></i>
+ 		 </p>
+ 		    
+ 		    ]]>
+    </string>
+    <string name="picture_guide_detail">
+<![CDATA[		
+		點擊過傳感器開/鎖屏。 
+傳感器可以是在屏幕的右上角/左上角。
+ 		]]>
+    </string>
+
+</resources>
