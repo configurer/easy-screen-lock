@@ -1,0 +1,1 @@
+This App is automatically Lock/WakeUp Screen by using Proximity Sensor. You can easily lock or open screen just touching sensor. No more hardware power button click.
